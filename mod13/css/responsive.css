@@ -1,0 +1,63 @@
+@media (min-width: 279px) and (max-width: 319px){
+    .nav-item .nav-link{
+        font-size: 12px;
+    }
+    .dropdown:hover .dropdown-menu{
+        font-size: 10px;
+    }
+    .getstarted{
+        width: 50%;
+        font-size: 8px;
+        padding-left: -10px;
+    }
+
+    .banner .img-fluid{
+        width: 100%;
+    }
+    .baner-text h2{
+        font-size: 23px;
+    }
+    .baner-text p {
+        font-size: 14px;
+    }
+    .banner button:last-child {
+        margin-left: 0.5rem;
+        font-size: 12px;
+    }
+    .about_section h2 {
+        font-size: 35px !important;
+    }
+    .lead {
+        padding-top: 5px;
+        font-size: 11px;
+    }
+    .about_section .btn {
+        padding: 5px 10px;
+    }
+    .why_us {
+        padding: 0px;
+    }
+    .why_us img {
+        width: 95%;
+        margin: auto;
+        text-align: center;
+    }
+    .why_us h3{
+        margin-top: 20px;
+        font-size: 20px;
+        text-align: left;
+    }
+    .accordion-button {
+        padding-top: 10px;
+        font-size: 12px;
+    }
+    .progress_bar_section h3{
+        font-size: 22px;
+    }
+    .progress_bar_section p{
+        font-size: 14px;
+    }
+    .services-text h2 {
+        font-size: 20px;
+    }
+}
